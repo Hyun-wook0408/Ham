@@ -71,7 +71,7 @@ True
 
 8.The three blocks are everything inside the if statement and the lines print('bacon') and print('ham').
 
-9.
+9.Code
 
 10.Press CTRL-C to stop a program stuck in an infinite loop.
 
@@ -81,7 +81,7 @@ True
 
 12.They all do the same thing. The range(10) call ranges from 0 up to (but not including) 10, range(0, 10) explicitly tells the loop to start at 0, and range(0, 10, 1) explicitly tells the loop to increase the variable by 1 on each iteration.
 
-13.
+13.Code
 
 14.This function can be called with spam.bacon().
 
