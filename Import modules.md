@@ -1,0 +1,1 @@
+Logically bundle frequently used or useful code so that it can be managed and used—usually one Python. The py file becomes one module. Within a module, functions, classes, or variables can be defined, and they can also contain execution codes.To use these modules, you can import a module, and an import statement can bring in one or more modules.
